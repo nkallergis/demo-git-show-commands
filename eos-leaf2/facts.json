@@ -3,9 +3,9 @@
     "fqdn": "eos-leaf2.ntc.com",
     "vendor": "Arista",
     "model": "cEOSLab",
-    "serial_number": "7F68474567924A62F628CDB02DD4CCE7",
+    "serial_number": "A326F721334C9AA1241855068FD2C1D3",
     "os_version": "4.30.4M-34191138.4304M",
-    "uptime": 2789.001928806305,
+    "uptime": 4657.875683784485,
     "interface_list": [
         "Ethernet1",
         "Ethernet2",
