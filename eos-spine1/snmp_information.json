@@ -10,6 +10,10 @@
         "secure": {
             "acl": "",
             "mode": "rw"
+        },
+        "york": {
+            "acl": "",
+            "mode": "ro"
         }
     }
 }

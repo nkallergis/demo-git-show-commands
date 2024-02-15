@@ -3,7 +3,7 @@
         "is_up": true,
         "is_enabled": true,
         "description": "",
-        "last_flapped": 1708013548.1837616,
+        "last_flapped": 1708013548.1837618,
         "mtu": 9214,
         "speed": 1000.0,
         "mac_address": "AA:C1:AB:88:EA:39"
@@ -21,7 +21,7 @@
         "is_up": true,
         "is_enabled": true,
         "description": "",
-        "last_flapped": 1708013548.185438,
+        "last_flapped": 1708013548.1854389,
         "mtu": 9214,
         "speed": 1000.0,
         "mac_address": "AA:C1:AB:8E:E9:3B"
@@ -30,7 +30,7 @@
         "is_up": true,
         "is_enabled": true,
         "description": "",
-        "last_flapped": 1708013548.1850052,
+        "last_flapped": 1708013548.1850057,
         "mtu": 9214,
         "speed": 1000.0,
         "mac_address": "AA:C1:AB:9F:2E:D3"
