@@ -21,7 +21,7 @@
         "is_up": true,
         "is_enabled": true,
         "description": "",
-        "last_flapped": 1708000472.3802395,
+        "last_flapped": 1708000472.380239,
         "mtu": 1500,
         "speed": 1000.0,
         "mac_address": "00:1C:73:AA:C6:B4"
