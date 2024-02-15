@@ -1,0 +1,29 @@
+{
+    "Ethernet2": {
+        "is_up": true,
+        "is_enabled": true,
+        "description": "",
+        "last_flapped": 1708000478.2894564,
+        "mtu": 9214,
+        "speed": 1000.0,
+        "mac_address": "AA:C1:AB:A9:D8:64"
+    },
+    "Ethernet1": {
+        "is_up": true,
+        "is_enabled": true,
+        "description": "",
+        "last_flapped": 1708000478.2884927,
+        "mtu": 9214,
+        "speed": 1000.0,
+        "mac_address": "AA:C1:AB:4F:EE:73"
+    },
+    "Management0": {
+        "is_up": true,
+        "is_enabled": true,
+        "description": "",
+        "last_flapped": 1708000471.688228,
+        "mtu": 1500,
+        "speed": 1000.0,
+        "mac_address": "00:1C:73:C2:43:AB"
+    }
+}
