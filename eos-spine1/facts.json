@@ -1,0 +1,16 @@
+{
+    "hostname": "eos-spine1",
+    "fqdn": "eos-spine1.ntc.com",
+    "vendor": "Arista",
+    "model": "cEOSLab",
+    "serial_number": "38C0115DEC446482E1FB85B285DCCA9D",
+    "os_version": "4.30.4M-34191138.4304M",
+    "uptime": 5222.912854194641,
+    "interface_list": [
+        "Ethernet1",
+        "Ethernet2",
+        "Ethernet3",
+        "Ethernet4",
+        "Management0"
+    ]
+}

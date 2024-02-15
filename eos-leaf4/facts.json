@@ -1,11 +1,11 @@
 {
-    "hostname": "eos-leaf2",
-    "fqdn": "eos-leaf2.ntc.com",
+    "hostname": "eos-leaf4",
+    "fqdn": "eos-leaf4.ntc.com",
     "vendor": "Arista",
     "model": "cEOSLab",
-    "serial_number": "1D6F97F5AE71528FDA9A37AB859D1D91",
+    "serial_number": "3692866CA3E50351A1B116760378161E",
     "os_version": "4.30.4M-34191138.4304M",
-    "uptime": 5222.907127380371,
+    "uptime": 5223.464948654175,
     "interface_list": [
         "Ethernet1",
         "Ethernet2",

@@ -1,0 +1,9 @@
+{
+    "1": {
+        "name": "default",
+        "interfaces": [
+            "Ethernet1",
+            "Ethernet2"
+        ]
+    }
+}
