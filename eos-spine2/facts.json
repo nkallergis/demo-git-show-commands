@@ -3,9 +3,9 @@
     "fqdn": "eos-spine2.ntc.com",
     "vendor": "Arista",
     "model": "cEOSLab",
-    "serial_number": "0400F6113AE489E22FF98A802DD5489F",
+    "serial_number": "2A5FE4E6B242FC8DABE228C13DBEBCD3",
     "os_version": "4.30.4M-34191138.4304M",
-    "uptime": 10423.576167345047,
+    "uptime": 1956.7356231212616,
     "interface_list": [
         "Ethernet1",
         "Ethernet2",

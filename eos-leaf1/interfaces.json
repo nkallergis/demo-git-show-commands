@@ -3,27 +3,27 @@
         "is_up": true,
         "is_enabled": true,
         "description": "",
-        "last_flapped": 1708000467.4844034,
+        "last_flapped": 1708013545.7717135,
         "mtu": 9214,
         "speed": 1000.0,
-        "mac_address": "AA:C1:AB:1A:0B:4A"
+        "mac_address": "AA:C1:AB:40:03:E9"
     },
     "Ethernet1": {
         "is_up": true,
         "is_enabled": true,
         "description": "",
-        "last_flapped": 1708000467.4848754,
+        "last_flapped": 1708013545.7720482,
         "mtu": 9214,
         "speed": 1000.0,
-        "mac_address": "AA:C1:AB:8E:CD:87"
+        "mac_address": "AA:C1:AB:B8:38:70"
     },
     "Management0": {
         "is_up": true,
         "is_enabled": true,
         "description": "",
-        "last_flapped": 1708000462.4838715,
+        "last_flapped": 1708013540.281558,
         "mtu": 1500,
         "speed": 1000.0,
-        "mac_address": "00:1C:73:64:01:EE"
+        "mac_address": "00:1C:73:0F:48:D1"
     }
 }

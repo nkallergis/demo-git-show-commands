@@ -1,15 +1,11 @@
 {
-    "chassis_id": "38C0115DEC446482E1FB85B285DCCA9D",
-    "location": "Network to Code - NYC | NY",
-    "contact": "John Smith",
+    "chassis_id": "10AE311AD9DFC62AFD5B0A1C4A6BF631",
+    "location": "",
+    "contact": "",
     "community": {
         "networktocode": {
             "acl": "",
             "mode": "ro"
-        },
-        "secure": {
-            "acl": "",
-            "mode": "rw"
         }
     }
 }
